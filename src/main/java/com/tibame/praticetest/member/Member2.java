@@ -1,6 +1,7 @@
 package com.tibame.praticetest.member;
 
-public class Member {
+public class Member2 {
+	
 	private Integer memno;
 	private String memName;
 	public Integer getMemno() {
@@ -15,7 +16,4 @@ public class Member {
 	public void setMemName(String memName) {
 		this.memName = memName;
 	}
-	
-	
-
 }
